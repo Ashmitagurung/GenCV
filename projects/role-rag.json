@@ -1,0 +1,329 @@
+[
+  {
+    "Position held": "Team Leader",
+    "Activities performed": [
+      "Led the development of scalable, secure, and interoperable system architectures.",
+      "Designed high-level system components, workflows, and database structures to optimize performance.",
+      "Directed cross-functional teams in integrating AI, GIS, and cloud technologies.",
+      "Conducted technical reviews, mentored developers, and enforced coding best practices.",
+      "Identified potential architectural risks and implemented mitigation strategies.",
+      "Ensured compliance with data governance, security protocols, and industry standards."
+    ]
+  },
+  {
+    "Position held": "Database Designer",
+    "Activities performed": [
+      "Designed and optimized relational database schemas for handling complex queries and large datasets.",
+      "Created and managed PostgreSQL/PostGIS databases for geospatial and non-spatial data.",
+      "Developed efficient SQL queries, stored procedures, and triggers to automate operations.",
+      "Monitored database performance, identified bottlenecks, and implemented improvements."
+    ]
+  },
+    {
+    "Position held": "AWS intern",
+    "Activities performed": [
+      "Monitored cloud resources using AWS CloudWatch to ensure optimal performance.",
+      "Identified and implemented cost-saving measures by optimizing resource allocation",
+      "Assisted in setting up and managing AWS databases.",
+      "Ensured proper backups and snapshots."
+    ]
+  },
+    {
+    "Position held": "Urban/Regional Planner / Team Leader ",
+    "Activities performed": [
+      "Led multidisciplinary teams in the preparation of urban and regional development plans, master plans, and spatial frameworks..",
+      "Conducted spatial analysis, land use planning, and socio-economic assessments to inform sustainable development strategies.",
+      "Guided the preparation of GIS-based mapping, zoning regulations, and infrastructure alignment plans.",
+      "Managed project timelines, resource allocation, and reporting to ensure timely delivery of planning outputs."
+    ]
+  },
+      {
+    "Position held": "Backend Developer",
+    "Activities performed": [
+      "Designed and implemented RESTful APIs and optimized PostgreSQL/PostGIS databases to ensure seamless communication and efficient storage and retrieval of geospatial data",
+      "Integrated real-time data processing pipelines and deployed backend services using Docker and Kubernetes, ensuring high availability and scalability of the system.",
+      "Implemented role-based access control, encryption, and authentication to protect sensitive data, while collaborating with teams to resolve backend issues and maintain platform reliability."
+    ]
+  },
+  {
+    "Position held": "GIS Expert",
+    "Activities performed": [
+      "Overseeing team efforts and facilitating collaboration.",
+      "Organizing and refining raw data for analysis and interpretation.",
+      "Creating comprehensive and accurate reports based on analyzed data for informed decision-making"
+    ]
+  },
+    {
+    "Position held": "Software Developer ",
+    "Activities performed": [
+      "Designed and implemented intuitive, responsive user interfaces ensuring seamless user experience across devices and platforms.",
+      "Optimized front-end performance by refining code and leveraging modern frameworks and tools.",
+      "Translated complex design mockups into pixel-perfect, interactive web components.",
+      "Conducted code reviews and mentored junior developers on front-end best practices.",
+      "Collaborated with backend developers to integrate APIs and ensure smooth data flow between front-end and back-end systems.",
+      "Participated in Agile development processes, contributing to sprint planning, daily stand-ups, and retrospectives."
+
+    ]
+  },
+      {
+    "Position held": "Mid - Software Developer ",
+    "Activities performed": [
+      "Designed and implemented intuitive, responsive user interfaces ensuring seamless user experience across devices and platforms.",
+      "Optimized front-end performance by refining code and leveraging modern frameworks and tools.",
+      "Translated complex design mockups into pixel-perfect, interactive web components.",
+      "Conducted code reviews and mentored junior developers on front-end best practices.",
+      "Collaborated with backend developers to integrate APIs and ensure smooth data flow between front-end and back-end systems.",
+      "Participated in Agile development processes, contributing to sprint planning, daily stand-ups, and retrospectives."
+
+    ]
+  },
+    {
+    "Position held": "Sr. Mobile Application Developer",
+    "Activities performed": [
+      "Developed and optimized mobile applications for disaster management, ensuring real-time access to disaster alerts, forecasts, and response tools in flood-prone regions.",
+      "Integrated GIS-based map data and heritage content into mobile platforms to enhance user engagement and showcase regional socio-economic and cultural information.",
+      "Collaborated with cross-functional teams to integrate mobile features with backend systems, ensuring smooth data synchronization and performance across diverse platforms.",
+      "Built user-friendly mobile interfaces for reporting, data visualization, and communication, improving community engagement and feedback submission for development projects",
+      "Led the design and implementation of mobile features, ensuring seamless functionality, performance optimization, and compatibility across multiple mobile devices and platforms",
+      "Participated in Agile development processes, contributing to sprint planning, daily stand-ups, and retrospectives."
+    ]
+  },
+      {
+    "Position held": "Sr. DevOps Engineer",
+    "Activities performed": [
+      "Responsible for creating, optimizing & maintaining CICD pipelines,Support infrastructure deployment models, including Private, Public, and Hybrid",
+      "Work with services of Digital Ocean, AWS, GCP, Azure or other cloud servers and Support on-premise and cloud servers, including security configurations, patching, and troubleshooting",
+      "Configure, implement, and maintain system security strategies, policies, and procedures and install and upgrade computer components and software,manage virtual servers, and integrate automation processes",
+      "Responsible for capacity, storage planning, and database performance and Monitor and analyze resource usage to recommend/develop enhancements to system capabilities and performance",
+      "Participated in Agile development processes, contributing to sprint planning, daily stand-ups, and retrospectives."
+    ]
+  },
+    {
+    "Position held": "Quality Assurance Specialist",
+    "Activities performed": [
+      "Conducted detailed testing of software and systems, identifying bugs and ensuring functionality aligns with project requirements.",
+      "Collaborated with developers to resolve issues and performed regression and user acceptance testing (UAT) for quality assurance.",
+      "Ensured compliance with quality standards and documented test results for continuous improvement and future reference.",
+      "Responsible for capacity, storage planning, and database performance and Monitor and analyze resource usage to recommend/develop enhancements to system capabilities and performance",
+      "Participated in Agile development processes, contributing to sprint planning, daily stand-ups, and retrospectives."
+    ]
+  },
+      {
+    "Position held": "Quality Assurance Officer",
+    "Activities performed": [
+      "Conducted end-to-end QA testing across multiple systems, ensuring data accuracy, functionality, and integration with APIs, dashboards, and external platforms.",
+      "Developed and maintained test cases, reported bugs, validated fixes, and ensured compliance with usability, security, and performance standards.",
+      "Coordinated closely with developers and stakeholders to refine features, enhance user experience, and deliver reliable, user-friendly digital systems.",
+      "Responsible for capacity, storage planning, and database performance and Monitor and analyze resource usage to recommend/develop enhancements to system capabilities and performance",
+      "Participated in Agile development processes, contributing to sprint planning, daily stand-ups, and retrospectives."
+    ]
+  },
+  {
+    "Position held": "Junior Product Officer",
+    "Activities performed": [
+      "Created and maintained product documentation and manuals",
+      "Coordinated with clients and product owners to ensure satisfaction",
+      "Prepared and circulated the weekly, monthly and production release notes.",
+      "Conducted sanity testing, performed API testing and executed UAT",
+      "Planned and organized Knowledge Sharing Sessions (KSS)."
+    ]
+  },
+    {
+    "Position held": "Demographer/Statistician",
+    "Activities performed": [
+      "Collected, cleaned, and analyzed demographic and socio-economic data from multiple sources to support project planning and policy development.",
+      "Developed statistical models and conducted trend analysis to forecast population dynamics, migration patterns, and urbanization impacts.",
+      "Prepared technical reports, data visualizations, and GIS-integrated maps to communicate findings to stakeholders and decision-makers.",
+      "Collaborated with interdisciplinary teams to integrate demographic insights into development programs and strategic planning frameworks.",
+      "Data entry, analysis, presentation and interpretation of statistical analysis using computer aided software (SPSS)."
+    ]
+  },
+      {
+    "Position held": "Technical Documentation Expert ",
+    "Activities performed": [
+      "Develop comprehensive training manuals, user guides, and API documentation.",
+      "Conduct training sessions for end-users, administrators, and stakeholders to ensure smooth system adoption.",
+      "Prepare and submit final reports, system configurations, and maintenance guidelines for sustainability."
+    ]
+  },
+    {
+    "Position held": "Sociologist",
+    "Activities performed": [
+      "Collaborating with local communities to understand social dynamics and needs.",
+      "Facilitating participatory approaches in project planning and implementation.",
+      "Evaluating the societal implications of geospatial projects.",
+      "Ensuring projects are inclusive and culturally sensitive."
+    ]
+  },
+      {
+    "Position held": "Socio-Economist/Team Leader",
+    "Activities performed": [
+      "Research and report preparation ",
+      "Sociological analysis and inputs in projects",
+      "Management of the team members, supervision of project activities"
+    ]
+  },
+    {
+    "Position held": "UI/UX Developer",
+    "Activities performed": [
+      "Create wireframes, user flows, process flows and sitemaps to effectively communicate interaction and design ideas. ",
+      "Create UI, UX and visual design solutions for web and mobile applications.",
+      "Engage in the design of graphical user interfaces as required for software systems",
+      "Rapidly iterate designs based on customer and team feedback."
+    ]
+  },
+      {
+    "Position held": "UI/UX Developer",
+    "Activities performed": [
+      "Create wireframes, user flows, process flows and sitemaps to effectively communicate interaction and design ideas. ",
+      "Create UI, UX and visual design solutions for web and mobile applications.",
+      "Engage in the design of graphical user interfaces as required for software systems",
+      "Rapidly iterate designs based on customer and team feedback."
+    ]
+  },
+        {
+    "Position held": "Software Developer/Web Programmer",
+    "Activities performed": [
+      "Develop comprehensive training manuals, user guides, and API documentation. ",
+      "Conduct training sessions for end-users, administrators, and stakeholders to ensure smooth system adoption.",
+      "Debugged, tested, and troubleshooted software issues to deliver reliable and scalable solutions."
+    ]
+  },
+  {
+    "Position held": "Software Developer/Web Programmer",
+    "Activities performed": [
+      "Developed and maintained web applications using technologies such as HTML, CSS, JavaScript, and backend frameworks. ",
+      "Collaborated with cross-functional teams to gather and analyze requirements, ensuring alignment with project goals.",
+      "Designed and implemented user-friendly interfaces and optimized application performance.",
+      "Debugged, tested, and troubleshooted software issues to deliver reliable and scalable solutions."
+    ]
+  },
+    {
+    "Position held": "AWS intern",
+    "Activities performed": [
+      "Monitored cloud resources using AWS CloudWatch to ensure optimal performance. ",
+      "Identified and implemented cost-saving measures by optimizing resource allocation.",
+      "Assisted in setting up and managing AWS databases.Ensured proper backups and snapshots.",
+      "Assisted in setting up and managing AWS databases."
+    ]
+  },
+      {
+    "Position held": "Software Developer/Web Programmer",
+    "Activities performed": [
+      "Integrated APIs and third-party services to enhance application functionality. ",
+      "Optimized applications for maximum speed and scalability.",
+      "Participated in code reviews and followed best practices for version control and software documentation.",
+      "Troubleshoot and resolve bugs and issues in a timely manner to maintain smooth operation of web platforms"
+    ]
+  },
+        {
+    "Position held": "Software Developer/Web Programmer",
+    "Activities performed": [
+      "Developed and maintained dynamic, responsive web applications using technologies such as HTML, CSS, JavaScript, and backend frameworks.",
+      "Collaborated with cross-functional teams including designers, product managers, and QA to deliver robust software solutions.",
+      "Implemented server-side logic and database integration to ensure seamless data flow and efficient application performance.",
+      "Participated in code reviews and contributed to improving development best practices and standards"
+    ]
+  },
+    {
+    "Position held": "GIS Operator",
+    "Activities performed": [
+      "Collected, analyzed, and processed spatial data using GIS software such as ArcGIS and QGIS to support various geospatial projects.",
+      "Developed and maintained geodatabases, shapefiles, and map layers to ensure accurate spatial representation of project areas.",
+      "Created detailed thematic maps, dashboards, and visualizations for reports, presentations, and decision-making purposes.",
+      "Conducted field data collection using mobile GIS tools and GPS devices, ensuring high accuracy and data integrity"
+    ]
+  },
+      {
+    "Position held": "Drone Operator",
+    "Activities performed": [
+      "Planned and executed drone flights for aerial data collection in support of mapping, surveying, and monitoring projects.",
+      "Operated various types of UAVs in accordance with safety protocols, flight regulations, and project requirements.",
+      "Captured high-resolution aerial imagery and video for use in GIS mapping, 3D modeling, and orthomosaic generation.",
+      "Processed aerial data using photogrammetry software to produce georeferenced outputs such as orthophotos, digital surface models, and point clouds."
+    ]
+  },
+  {
+    "Position held": "Data Collection Lead",
+    "Activities performed": [
+      "Led the planning, coordination, and execution of field-level data collection activities for development and research projects.",
+      "Supervised and trained enumerators and field staff to ensure accurate and consistent data gathering procedures.",
+      "Developed and tested data collection tools using digital platforms (e.g., KoboToolbox, ODK) for efficient and real-time data entry.",
+      "Monitored data quality, conducted field validation checks, and implemented quality control measures.",
+      "Coordinated with project teams and stakeholders to align data collection processes with project goals and timelines."
+
+    ]
+  },
+  {
+    "Position held": "Project Manager",
+    "Activities performed": [
+      "Led cross-functional teams to deliver projects on time.",
+      "Developed and executed project plans covering scope, resources, and risk management.",
+      "Coordinated with clients and stakeholders for requirements, updates, and concerns,ensuring high customer satisfaction.",
+      "Monitored data quality, conducted field validation checks, and implemented quality control measures.",
+      "Implemented agile methodologies for efficient, high-quality software delivery.",
+      "Conducted status meetings and presentations on project progress and issues.",
+      "Managed project budgets, timelines, and resources to ensure successful project delivery.",
+      "Managed scope changes, ensuring successful implementation with minimal disruptions.",
+      "Led quality assurance efforts, delivering defect-free software."
+
+
+
+    ]
+  },
+    {
+    "Position held": "QA Engineer",
+    "Activities performed": [
+      "Conducted detailed testing of software and systems, identifying bugs and ensuring functionality aligns with project requirements.",
+      "Collaborated with developers to resolve issues and performed regression and user acceptance testing (UAT) for quality assurance.",
+      "Ensured compliance with quality standards and documented test results for continuous improvement and future reference."
+      
+
+
+    ]
+  },
+      {
+    "Position held": "Surveyors/Supervisors",
+    "Activities performed": [
+      "Conducted field surveys using GPS/GIS tools for accurate data collection and mapping of project areas.",
+      "Supervised and coordinated field teams to ensure quality and timely completion of survey tasks.",
+      "Collected and verified socio-economic, environmental, and infrastructure-related data in alignment with project objectives.",
+      "Collaborated with project managers, data analysts, and technical teams to support data processing, analysis, and reporting."   
+
+
+    ]
+  },
+        {
+    "Position held": "Surveyors/Supervisors",
+    "Activities performed": [
+      "Conducted field surveys using GPS/GIS tools for accurate data collection and mapping of project areas.",
+      "Supervised and coordinated field teams to ensure quality and timely completion of survey tasks.",
+      "Ensured adherence to safety protocols and ethical standards during field operations.",
+      "Collaborated with project managers, data analysts, and technical teams to support data processing, analysis, and reporting."   
+
+
+    ]
+  },
+        {
+    "Position held": "Surveyors/Supervisors",
+    "Activities performed": [
+      "Develop and update project documentation, including user manuals, training materials, and technical reports, ensuring accuracy and clarity",
+      "Collaborate with developers and project managers to gather detailed system and process information.",
+      "Edit and review documentation to ensure adherence to organizational standards and best practices.",
+      "Organize and manage technical information repositories for easy access and knowledge sharing among teams."   
+
+
+    ]
+  },
+  {
+    "Position held": "Surveyors/Supervisors",
+    "Activities performed": [
+      "Develop and update project documentation, including user manuals, training materials, and technical reports, ensuring accuracy and clarity",
+      "Collaborate with developers and project managers to gather detailed system and process information.",
+      "Edit and review documentation to ensure adherence to organizational standards and best practices.",
+      "Organize and manage technical information repositories for easy access and knowledge sharing among teams."   
+
+
+    ]
+  }  
+]
